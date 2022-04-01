@@ -50,4 +50,4 @@ elif 60 <= total < 80:
 else: 
    print "you are Emily" 
    
-#im 80% sure i did it wrong but i worked really hard on it and didnt wanna risk my academic integrity, not sure if it loops through all the questions "properly" rrly hope its fine 
+
